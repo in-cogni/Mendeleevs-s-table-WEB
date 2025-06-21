@@ -71,3 +71,42 @@ td
     border-bottom: none !important;
     border-right: 2px solid aliceblue;
 }
+.a-red
+{
+    color: tomato;
+}
+    .a-red:hover, .a-red:hover:visited
+    {
+        color: red;
+    }
+    .a-red:visited
+    {
+        color: tomato;
+    }
+
+.a-black
+{
+    color:black;
+}
+    .a-black:hover, .a-black:hover:visited
+    {
+        color: darkseagreen;
+    }
+    .a-black:visited
+    {
+        color: black;
+    }
+
+.a-green
+{
+    color: mediumseagreen;
+}
+    .a-green:hover, .a-red:hover:visited
+    {
+        color:chartreuse;
+    }
+
+    .a-green:visited
+    {
+        color: mediumseagreen;
+    }
