@@ -1,0 +1,59 @@
+body
+{
+    background-color: #323232;
+    color: gainsboro;
+    font-family: 'Segoe UI';
+}
+th
+{
+    text-align: center;
+    font-size: 20px;
+}
+td
+{
+    text-align:center;
+}
+.per
+{
+    text-align: center;
+    font-family: 'Comic Sans MS';
+    font-size: 18px;
+}
+.el
+{
+    width: 100px;
+    height: 65px;
+    text-align: center;
+    vertical-align: middle;
+    position: relative;
+}
+.num
+{
+    top: 5px;
+    right: 5px;
+    position: absolute;
+    font-size: 18px;
+    font-weight: bold;
+}
+.symb
+{
+    top: 10px;
+    left: 5px;
+    position: absolute;
+    font-size: 28px;
+}
+.name
+{
+    top: 45px;
+    left: 5px;
+    position: absolute;
+    font-family: 'Cascadia Code';
+    font-size: 14px;
+}
+.mass
+{
+    top: 25px;
+    right: 5px;
+    position: absolute;
+    font-size: 14px;
+}
