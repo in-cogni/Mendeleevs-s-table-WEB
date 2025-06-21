@@ -21,7 +21,7 @@ td
 }
 .el
 {
-    width: 100px;
+    width: 125px;
     height: 65px;
     text-align: center;
     vertical-align: middle;
@@ -56,4 +56,18 @@ td
     right: 5px;
     position: absolute;
     font-size: 14px;
+}
+.hydro
+{
+    font-size: 32px;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+}
+.f-el
+{
+    border-top: none !important;
+    border-left: none !important;
+    border-bottom: none !important;
+    border-right: 2px solid aliceblue;
 }
